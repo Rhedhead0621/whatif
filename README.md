@@ -3,8 +3,33 @@ hw2_hojdila
 
 HW2 aap
 
+Required Homework Documents
+---------------------------
+
+/notebooks/hw_Analsysis1_Hojdila.ipynb
+/notebooks/whatif.py
+
+
+
+
+For Reference Only or Empty
+---------------------------
+
+/docs/
+/models/ -empty
+/notebooks/images/
+/notebooks/input/
+/notebooks/output/
+/notebooks/Reference_Docs_Notebooks/
+/references/ - empty
+/reports/ - empty
+/src/ - made by the cookiecutter - not used
+
+
+
+
 Project Organization
-------------
+--------------------
 
     ├── LICENSE
     ├── README.md          <- The top-level README for developers using this project.
